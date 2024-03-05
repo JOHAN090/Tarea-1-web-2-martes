@@ -1,0 +1,163 @@
+#contenedor{
+    width:  500px;
+    height: 2000px;
+    background-color: white;
+    margin: auto;
+}
+#caja1{
+    width: 200px;
+    height: 200px;
+    margin:auto;
+    background-color: maroon;
+    display: inline-block;
+    position: relative;
+    border-radius: 100px;
+    right: 10px;
+    left: 130px;
+    top: 40px;
+   
+}
+#caja1-1{   
+   width: 60px;
+   height: 60px;
+   background-color: black;
+   border-radius: 100px;
+   position: absolute;
+   left: 35px;
+   top: 50px;
+}
+#caja1-2{
+    width: 60px;
+    height: 60px;
+    background-color: black;
+    border-radius: 100px;
+    position: absolute;
+    left: 100px;
+    top: 50px;
+   
+}
+#caja11-1{
+    width: 50px;
+    height: 50px;
+    background-color:white;
+    border-radius: 100px;
+    display: inline-block9h;
+    position: absolute;
+    top: 8px;
+    left: 8px;
+}
+#caja11-2{
+    width: 50px;
+    height: 50px;
+    background-color:white;
+    border-radius: 100px;
+    display: inline-block9h;
+    position: absolute;
+    top: 8px;
+    left: 8px;
+}
+
+#caja1-3{
+    width: 40px;
+    height: 40px;
+    background-color:palevioletred;
+    border-radius: 100px;
+    display: inline-block9h;
+    position: absolute;
+    top: 105px;
+    left: 78px;
+}
+#caja1-4{
+    width: 50px;
+    height: 20px;
+    background-color:red;
+    border-radius: 10px;
+    display: inline-block9h;
+    position: absolute;
+    top: 147px;
+    left: 77px;
+}
+#caja2{
+    width: 100px;
+    height: 100px;
+    background-color:maroon;
+    border-radius: 100px;
+    display: inline-block9h;
+    position: absolute;
+    top: 20px;
+    left: 800px;
+}
+#caja3{
+    width: 100px;
+    height: 100px;
+    background-color:maroon;
+    border-radius: 100px;
+    display: inline-block9h;
+    position: absolute;
+    top: 20px;
+    left: 580px;
+}
+#caja4{
+    width: 320px;
+    height: 370px;
+    background-color:maroon;
+    border-radius: 250px;
+    display: inline-block9h;
+    position: absolute;
+    top: 230px;
+    left: 580px;
+}
+#caja4-1{
+    width: 200px;
+    height: 300px;
+    background-color:rgb(128, 105, 0);
+    border-radius: 100px;
+    display: inline-block9h;
+    position: absolute;
+    top: 30px;
+    left: 60px;
+}
+#caja5{
+    width: 120px;
+    height: 180px;
+    background-color:rgb(63, 10, 10);
+    border-radius: 100px;
+    display: inline-block9h;
+    position: absolute;
+    top: 425px;
+    left: 610px;
+    transform: rotate(160deg)
+}
+#caja6{
+    width: 120px;
+    height: 180px;
+    background-color:rgb(63, 10, 10);
+    border-radius: 100px;
+    display: inline-block9h;
+    position: absolute;
+    top: 425px;
+    left: 760px;
+    transform: rotate(200deg)
+}
+#caja7{
+    width: 120px;
+    height: 180px;
+    background-color:maroon;
+    border-radius: 100px;
+    display: inline-block9h;
+    position: absolute;
+    top: 180px;
+    left: 850px;
+    transform: rotate(220deg)
+}
+#caja8{
+    width: 120px;
+    height: 180px;
+    background-color:maroon;
+    border-radius: 100px;
+    display: inline-block9h;
+    position: absolute;
+    top: 180px;
+    left: 510px;
+    transform: rotate(130deg)
+}
